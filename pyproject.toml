@@ -1,0 +1,10 @@
+[project]
+name = "cli-template"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+authors = [
+    { name = "quick-sort", email = "quick-sort@github.com" }
+]
